@@ -1,0 +1,132 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(100deg, #D9184B 0%, rgba(31, 90, 166, 0.4) 100%);
+}
+.box-menu{
+    display: flex;
+    justify-content: center;
+    height:70px ;
+    width: 1366px;
+   
+}
+.menu-link{
+    color: #ffffff;
+	font-size:13px;
+	display: flex;
+	flex-direction: row;
+	width: 32%;
+	justify-content: space-around;
+    font-family: 'Farro', sans-serif;
+    list-style:none;
+    
+}
+.iconpacman{
+    width: 18px;
+
+}
+.titulo-principal{
+    color: #ffffff;
+    font-size: 35px;
+    position: absolute;
+    top: 130px;
+    left: 400px;
+}
+.rapaz{
+    width:500px;
+    position: absolute;
+    top: 50px;
+	left: 550px; 
+}
+.palavra-2{
+    color: #1F5AA6;
+    font-weight: bolder;
+    position: absolute;
+    top:468px ;
+    left: 420px;
+}
+.caixa-meio{
+    height: 450px;
+    width: 1366px;
+
+}
+.caixa-1{
+    position: absolute;
+    width: 200px;
+    height: 100px;
+
+    left: 960px;
+    top: 450px;
+
+    background: #1F5AA6;
+    border-radius: 5px;
+
+}
+.game-boy{
+    width: 55px;
+   
+    position: relative;
+    left: 16px;
+    top: 7px;
+
+}
+.p-1{
+    color: #ffffff;
+    position: absolute;
+    top: 18px ;
+    left: 80px;
+}
+.caixa-2{
+    position: absolute;
+    width: 200px;
+    height: 100px;
+
+   left: 745px;
+    top: 450px;
+
+    background: #1F5AA6;
+    border-radius: 5px;
+
+
+}
+.volante{
+    width: 120px;
+    position: relative;
+    left: 10px;
+    top: 10px;
+
+}
+.p-2{
+    color: #ffffff;
+    position: absolute;
+    top: 30px ;
+    left: 130px;
+    
+}
+    
+.caixa-3{
+    position: absolute;
+    width: 200px;
+    height: 100px;
+
+    left: 530px;
+    top: 450px;
+
+    background: #1F5AA6;
+    border-radius: 5px;
+
+}
+.nintendo{
+    width: 100px;
+    position: relative;
+    top: 25px;
+    left: 5px;
+    
+
+}
+.p-3{
+    color: #ffffff;
+    position: absolute;
+    top: 25px ;
+    left: 110px;
+}
